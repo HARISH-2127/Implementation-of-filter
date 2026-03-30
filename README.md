@@ -162,17 +162,17 @@ plt.show()
 
 ### i) Using Averaging Filter
 
-<img width="858" height="556" alt="image" src="https://github.com/user-attachments/assets/09c7875e-2f39-4ead-bea2-a7f9fa1f9186" />
+<img width="925" height="579" alt="image" src="https://github.com/user-attachments/assets/00d6f883-9eb8-4fd5-ba2f-918f595f5f92" />
 
 
 ### ii)Using Weighted Averaging Filter
 
-<img width="644" height="411" alt="image" src="https://github.com/user-attachments/assets/eb78b135-4d28-4a1c-be1d-64ef7bd3f1a4" />
+<img width="667" height="446" alt="image" src="https://github.com/user-attachments/assets/ce73538d-cf50-4df6-b81b-f18f70f84d83" />
 
 
 ### iii)Using Gaussian Blur
 
-<img width="615" height="410" alt="image" src="https://github.com/user-attachments/assets/b02ec44a-117a-458f-99eb-936f717b9ec9" />
+<img width="684" height="433" alt="image" src="https://github.com/user-attachments/assets/c785be2b-4fd7-4627-b3a6-fa3122a9dc49" />
 
 
 
@@ -181,12 +181,12 @@ plt.show()
 ## 2. Sharpening Filters
 ### i) Using Laplacian Kernal
 
-<img width="611" height="414" alt="image" src="https://github.com/user-attachments/assets/e946b149-335f-42af-b561-267c9914c287" />
+<img width="639" height="421" alt="image" src="https://github.com/user-attachments/assets/5d07a6e9-c036-47bf-84b0-1b90532f3689" />
 
 
 ### ii) Using Laplacian Operator
 
-<img width="623" height="420" alt="image" src="https://github.com/user-attachments/assets/8fa1899e-dc8d-4ed9-8b8b-1152dbfafd0f" />
+<img width="659" height="411" alt="image" src="https://github.com/user-attachments/assets/89027a4d-46e7-46ad-a564-494e1d753685" />
 
 
 ## Result:
